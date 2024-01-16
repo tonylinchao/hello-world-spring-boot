@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: hello-world-spring-boot
+  annotations:
+    github.com/project-slug: tonylinchao/hello-world-spring-boot
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
